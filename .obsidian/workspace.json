@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "cfeee991ae49f3a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c58c93813bb906d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc4fbaa8dd63744b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grammar/句式.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "句式"
+            }
+          },
+          {
+            "id": "816995f0fcdddd8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grammar/ください.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ください"
+            }
+          },
+          {
+            "id": "2d74ca2030bc0aad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "auxi_word/ので.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ので"
+            }
+          },
+          {
+            "id": "e3f6ee5c7420cfbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "auxi_word/から.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "から"
+            }
+          },
+          {
+            "id": "d5909d75fbb6d27b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grammar/ために.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ために"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b2f65c2b26eeb78",
+    "type": "split",
+    "children": [
+      {
+        "id": "56cfa2c4f7f12ad5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "942ae49102d1e026",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "876434f19f600b27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "本质",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c2cffda641e4e098",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "right": {
+    "id": "b7273a323177f86b",
+    "type": "split",
+    "children": [
+      {
+        "id": "34f0456a3c58c5aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d0c19f17aeddb9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "auxi_word/ので.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "ので 的反向链接列表"
+            }
+          },
+          {
+            "id": "b1bfbc86a6d357fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "auxi_word/ので.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ので 的出链列表"
+            }
+          },
+          {
+            "id": "351143b6af213d12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "fbafc8bed993058e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "grammar/ながら、前に、時.md"
+              },
+              "icon": "lucide-list",
+              "title": "ながら、前に、時 的大纲"
+            }
+          },
+          {
+            "id": "19a4de67c486d137",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2d74ca2030bc0aad",
+  "lastOpenFiles": [
+    "auxi_verb/ます.md",
+    "auxi_verb/です.md",
+    "auxi_word/ので.md",
+    "grammar/连体修饰语or定语.md",
+    "grammar/ください.md",
+    "grammar/句式.md",
+    "auxi_word/から.md",
+    "grammar/grammar_sum/表原因.md",
+    "grammar/ために.md",
+    "auxi_verb/だ.md",
+    "auxi_word/と.md",
+    "grammar/grammar_sum/表意志.md",
+    "grammar/grammar_sum/表命令.md",
+    "grammar/grammar_sum/表必须与否.md",
+    "verb/动词意志形.md",
+    "verb/动词た形.md",
+    "verb/动词て形.md",
+    "verb/动词ない形.md",
+    "verb/动词ば形.md",
+    "verb/动词ます形.md",
+    "verb/动词及变形.md",
+    "verb/动词可能形.md",
+    "verb/动词名词化.md",
+    "verb/动词命令形.md",
+    "verb/动词基本形.md",
+    "verb/动词敬体形与简体形.md",
+    "新版中日交流标准日本语初级（下） by 光村图书出版株式会社 人民教育出版社 (z-lib.org).pdf",
+    "新建 Text Document.txt",
+    "aux_word",
+    "grammar/grammar_sum",
+    "common_expression",
+    "auxi_verb",
+    "auxi_word",
+    "grammar",
+    "adv",
+    "adj",
+    "未命名.canvas"
+  ]
+}
