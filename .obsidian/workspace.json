@@ -28,28 +28,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grammar/ください.md",
+                "file": "grammar/にする.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ください"
+              "title": "にする"
             }
           },
           {
-            "id": "2d74ca2030bc0aad",
+            "id": "33984e999e476ab5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "auxi_word/ので.md",
+                "file": "grammar/grammar_sum/表示推测.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ので"
+              "title": "表示推测"
             }
           },
           {
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "本质",
+                "query": "tag:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "auxi_word/ので.md",
+                "file": "grammar/grammar_sum/表示推测.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "ので 的反向链接列表"
+              "title": "表示推测 的反向链接列表"
             }
           },
           {
@@ -174,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "auxi_word/ので.md",
+                "file": "verb/动词活用形.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ので 的出链列表"
+              "title": "动词活用形 的出链列表"
             }
           },
           {
@@ -235,44 +235,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d74ca2030bc0aad",
-  "lastOpenFiles": [
-    "auxi_verb/ます.md",
-    "auxi_verb/です.md",
-    "auxi_word/ので.md",
-    "grammar/连体修饰语or定语.md",
-    "grammar/ください.md",
-    "grammar/句式.md",
-    "auxi_word/から.md",
-    "grammar/grammar_sum/表原因.md",
-    "grammar/ために.md",
-    "auxi_verb/だ.md",
-    "auxi_word/と.md",
-    "grammar/grammar_sum/表意志.md",
-    "grammar/grammar_sum/表命令.md",
-    "grammar/grammar_sum/表必须与否.md",
-    "verb/动词意志形.md",
-    "verb/动词た形.md",
-    "verb/动词て形.md",
-    "verb/动词ない形.md",
-    "verb/动词ば形.md",
-    "verb/动词ます形.md",
-    "verb/动词及变形.md",
-    "verb/动词可能形.md",
-    "verb/动词名词化.md",
-    "verb/动词命令形.md",
-    "verb/动词基本形.md",
-    "verb/动词敬体形与简体形.md",
-    "新版中日交流标准日本语初级（下） by 光村图书出版株式会社 人民教育出版社 (z-lib.org).pdf",
-    "新建 Text Document.txt",
-    "aux_word",
-    "grammar/grammar_sum",
-    "common_expression",
-    "auxi_verb",
-    "auxi_word",
-    "grammar",
-    "adv",
-    "adj",
-    "未命名.canvas"
-  ]
+  "floating": {
+    "id": "4b550c79473321ee",
+    "type": "floating",
+    "children": [
+      {
+        "id": "745d7b1280b9ee08",
+        "type": "window",
+        "children": [
+          {
+            "id": "4a0e4db42f4af6c1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ae3f1f464e9734b7",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新标签页"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1034,
+        "y": 67,
+        "width": 650,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "33984e999e476ab5",
+  "lastOpenFiles": []
 }
