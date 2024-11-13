@@ -1,4 +1,6 @@
 [
   "note-refactor-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "tag-wrangler",
+  "find-unlinked-files"
 ]
