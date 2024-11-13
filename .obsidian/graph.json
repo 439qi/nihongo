@@ -8,30 +8,51 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:nihongo.md",
+      "query": "tag:#moc",
       "color": {
         "a": 1,
-        "rgb": 14075484
+        "rgb": 9688668
       }
     },
     {
-      "query": "tag:#moc  ",
+      "query": "file:nihongo.md",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 15194688
+      }
+    },
+    {
+      "query": "tag:#TBD  ",
+      "color": {
+        "a": 1,
+        "rgb": 14292502
+      }
+    },
+    {
+      "query": "path:8.sentence_pattern/by_meaning  ",
+      "color": {
+        "a": 1,
+        "rgb": 5677762
+      }
+    },
+    {
+      "query": "tag:#word",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224509,
-  "close": false
+  "scale": 0.11660891579457354,
+  "close": true
 }
