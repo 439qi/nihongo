@@ -1,6 +1,7 @@
 {
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "Things",
   "interfaceFontFamily": "",
   "monospaceFontFamily": "Microsoft YaHei",
-  "theme": "system"
+  "theme": "system",
+  "accentColor": ""
 }
