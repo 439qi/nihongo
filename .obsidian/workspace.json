@@ -13,13 +13,13 @@
                         "state": {
                             "type": "markdown",
                             "state": {
-                                "file": "1.verb/\u52a8\u8bcd\u6d3b\u7528\u5f62.md",
+                                "file": "9.sentence_pattern/\u3088\u3046.md",
                                 "mode": "source",
                                 "backlinks": false,
                                 "source": false
                             },
                             "icon": "lucide-file",
-                            "title": "\u52a8\u8bcd\u6d3b\u7528\u5f62"
+                            "title": "\u3088\u3046"
                         }
                     }
                 ]
@@ -53,7 +53,7 @@
                         "state": {
                             "type": "search",
                             "state": {
-                                "query": "\u307b\u3069",
+                                "query": "\u3088\u3046\u3060",
                                 "matchingCase": false,
                                 "explainSearch": true,
                                 "collapseAll": false,
@@ -74,7 +74,8 @@
                             "title": "\u4e66\u7b7e"
                         }
                     }
-                ]
+                ],
+                "currentTab": 1
             }
         ],
         "direction": "horizontal",
@@ -94,7 +95,7 @@
                         "state": {
                             "type": "backlink",
                             "state": {
-                                "file": "1.verb/\u52a8\u8bcd\u6d3b\u7528\u5f62.md",
+                                "file": "4.particle/2.\u52a9\u8bcd\u590d\u5408.md",
                                 "collapseAll": true,
                                 "extraContext": false,
                                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                                 "unlinkedCollapsed": false
                             },
                             "icon": "links-coming-in",
-                            "title": "\u52a8\u8bcd\u6d3b\u7528\u5f62 \u7684\u53cd\u5411\u94fe\u63a5\u5217\u8868"
+                            "title": "2.\u52a9\u8bcd\u590d\u5408 \u7684\u53cd\u5411\u94fe\u63a5\u5217\u8868"
                         }
                     },
                     {
@@ -113,12 +114,12 @@
                         "state": {
                             "type": "outgoing-link",
                             "state": {
-                                "file": "4.particle/\u3070.md",
+                                "file": "4.particle/2.\u52a9\u8bcd\u590d\u5408.md",
                                 "linksCollapsed": false,
                                 "unlinkedCollapsed": false
                             },
                             "icon": "links-going-out",
-                            "title": "\u3070 \u7684\u51fa\u94fe\u5217\u8868"
+                            "title": "2.\u52a9\u8bcd\u590d\u5408 \u7684\u51fa\u94fe\u5217\u8868"
                         }
                     },
                     {
@@ -140,13 +141,14 @@
                         "state": {
                             "type": "outline",
                             "state": {
-                                "file": "4.particle/\u3068.md"
+                                "file": "9.sentence_pattern/\u305f\u5f8c\u3067.md"
                             },
                             "icon": "lucide-list",
-                            "title": "\u3068 \u7684\u5927\u7eb2"
+                            "title": "\u305f\u5f8c\u3067 \u7684\u5927\u7eb2"
                         }
                     }
-                ]
+                ],
+                "currentTab": 3
             }
         ],
         "direction": "horizontal",
