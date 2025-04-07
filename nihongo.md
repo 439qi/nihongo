@@ -1,5 +1,6 @@
-# Nihongo  
-
+---
+title: Nihongo  
+---
 ## 一、发音  
 
 ### 声调标记方法  
