@@ -85,14 +85,14 @@ title: Nihongo
 | [adj.]            | 形容词                        |
 | [adj.i.]          | い形容词                       |
 | [adj.i.attr.]     | い形容词连体形                    |
-| [adj.i.conj.]     | い形容词连用形                    |
+| [adj.i.cont.]     | い形容词连用形                    |
 | [adj.na.]         | な形容词                       |
 | [v.]              | 动词                         |
 | [vt.]             | 他动词                        |
 | [vi.]             | 自动词                        |
 | [va.]             | 自他同形动词，ambitransitive verb |
 | [v.attr.]         | 动词连体形                      |
-| [v.conj.]         | 动词连用形                      |
+| [v.cont.]         | 动词连用形                      |
 | [v.masu.]         | 动词ます形，即动词第一连用形加上 **ます**    |
 | [v.basic.]        | 动词原形/基本形/辞书形               |
 | [v.final]         | 动词终止形                      |
